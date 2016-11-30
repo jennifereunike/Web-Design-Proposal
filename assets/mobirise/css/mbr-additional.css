@@ -508,28 +508,31 @@ h6,
 #msg-box8-5 p {
   color: #fff;
 }
-#msg-box5-a H3 {
-  font-size: 24px;
-  text-align: left;
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-a P {
-  text-align: left;
-  font-size: 15px;
+#header3-g DIV {
+  font-size: 30px;
 }
-#msg-box5-a DIV {
-  text-align: left;
+#header3-g H3 {
+  font-size: 36px;
 }
-#msg-box5-b H3 {
-  font-size: 24px;
-  text-align: left;
+#content1-i LI {
+  font-size: 17px;
 }
-#msg-box5-b P {
-  text-align: left;
-  font-size: 15px;
-  color: #232323;
+#content1-i P {
+  font-size: 18px;
 }
-#msg-box5-b DIV {
-  text-align: left;
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-j DIV {
+  font-size: 30px;
+}
+#header3-j H3 {
+  font-size: 36px;
 }
 #msg-box8-9 .mbr-section-title,
 #msg-box8-9 p {
